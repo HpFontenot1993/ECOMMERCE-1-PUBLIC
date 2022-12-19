@@ -1,0 +1,25 @@
+﻿body
+{
+    background-color:darkcyan;
+    color:black;
+    font-family:'Global Monospace';
+}
+
+img {
+    width: 240px;
+    height: 160px;
+}
+
+two{
+   
+    color:white;
+   
+}
+
+header {
+    background-color: black;
+    color:white;
+    width: 100%;
+    height:100px;
+}
+
